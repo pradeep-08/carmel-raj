@@ -1,0 +1,43 @@
+.skills-main-div{
+    height: 700px;
+    background-color: #4BB776;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+
+
+}
+.skills-div{
+
+}
+.skills-decription{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.intro-description{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 3%;
+}
+.intro-des-2{
+    font-size: 20px;
+    font-weight: bold;
+    width: 50%;
+}
+
+.skills-second-main-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.skills-second-div{
+    height: 800px;
+    width: 98%;
+    border-radius: 15px;
+    background-color: #000000;
+    
+    
+}
