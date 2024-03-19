@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/skills.css';
+import SkillsLogoOne from '../images/skillsimg.gif';
 function Skills() {
   return <>
           <div className='skills-main-div'>
@@ -16,7 +17,26 @@ function Skills() {
             </div>
           </div>
           <div className="skills-second-main-div">
-          <div className="skills-second-div"></div>
+          <div className="skills-second-div">
+            <div className="skills-second-child-1">
+              <div className="skills-second-content">Android</div>
+              <div className="skills-second-content">Android Studio</div>
+              <div className="skills-second-content">Maps</div>
+              <div className="skills-second-content">Fragments</div>
+              <div className="skills-second-content">MVVM</div>
+              <div className="skills-second-content">Retrofit</div>
+            </div>
+          
+            <img src={SkillsLogoOne} className='skillsimage'/>
+            <div className="skills-second-child-1">
+            <div className="skills-second-content">Notification services</div>
+              <div className="skills-second-content">Resetful Api</div>
+              <div className="skills-second-content">ADB</div>
+              <div className="skills-second-content">Java</div>
+              <div className="skills-second-content">SQL</div>
+              <div className="skills-second-content">JSON</div>
+            </div>
+          </div>
           </div>
           
   </>

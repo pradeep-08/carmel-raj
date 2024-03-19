@@ -38,6 +38,21 @@
     width: 98%;
     border-radius: 15px;
     background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
     
-    
+}
+
+.skills-second-child-1{
+    height: 600px;
+    width: 400px;
+    background-color: #FFF;
+    border-radius: 15px;
+}
+
+.skillsimage{
+    width: 25%;
+    border-radius: 15px;
 }
