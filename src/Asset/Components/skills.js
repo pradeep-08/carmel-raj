@@ -27,7 +27,7 @@ function Skills() {
               <div className="skills-second-content">Retrofit</div>
             </div>
           
-            <img src={SkillsLogoOne} className='skillsimage'/>
+             <img src={SkillsLogoOne} className='skillsimage' alt="Skillsimage"/>
             <div className="skills-second-child-1">
             <div className="skills-second-content">Notification services</div>
               <div className="skills-second-content">Resetful Api</div>
