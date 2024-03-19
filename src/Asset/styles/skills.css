@@ -56,3 +56,14 @@
     width: 25%;
     border-radius: 15px;
 }
+
+.skills-second-child-1{
+   font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+
+}
+.skills-second-content{
+    margin: 15%;
+}
