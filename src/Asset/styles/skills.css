@@ -65,8 +65,20 @@
 }
 .skills-second-content{
     margin: 15%;
+    cursor: pointer;
+}
+.skills-second-content:hover{
+    text-decoration: underline blue;
+    font-size: 18px;
 }
 .Skills-name{
     font-size: 32px;
     color: #FFF;
+    position: absolute;
+    padding-top: 10px;
+    border-bottom: 1px solid red;
+}
+.Skills-name:hover{
+    font-size: 30px;
+    cursor: pointer;
 }

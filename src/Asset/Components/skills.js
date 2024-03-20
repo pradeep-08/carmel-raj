@@ -18,9 +18,9 @@ function Skills() {
            
           </div>
           <div className="skills-second-main-div">
-          
-          <div className="skills-second-div">
           <div className='Skills-name'>Skills</div>
+          <div className="skills-second-div">
+          
             <div className="skills-second-child-1">
               <div className="skills-second-content">Android</div>
               <div className="skills-second-content">Android Studio</div>
@@ -32,8 +32,8 @@ function Skills() {
           
              <img src={SkillsLogoOne} className='skillsimage' alt="Skillsimage"/>
             <div className="skills-second-child-1">
-            <div className="skills-second-content">Notification services</div>
-              <div className="skills-second-content">Resetful Api</div>
+            <div className="skills-second-content" title='Notification services'>Notification services</div>
+              <div className="skills-second-content">Restful Api</div>
               <div className="skills-second-content">ADB</div>
               <div className="skills-second-content">Java</div>
               <div className="skills-second-content">SQL</div>
