@@ -6,7 +6,7 @@ function Skills() {
           <div className='skills-main-div'>
             <div className="skills-div">
               <div className="intro-description">
-                        Hi, I’m Carmel. Nice to meet you.
+                       <h1 className='typewriter'> Hi, I’m Carmel. Nice to meet you.</h1>
                 </div>
                   <div className='skills-decription'>
                   <div className="intro-des-2">Extensive 4 years of experience in Android Application Development Developing android applications to enhance and fulfill the user requirements with 
