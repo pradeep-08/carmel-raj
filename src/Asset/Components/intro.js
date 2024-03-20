@@ -3,7 +3,7 @@ import '../styles/intro.css';
 import IntroLogo from '../images/developer-icon.png';
 import IntroLogoTwo from '../images/introtarsh.gif';
 import IntroLogoThree from '../images/intrologotwo.jpg';
-import IntroLogofour from '../images/minilogo.jpg';
+// import IntroLogofour from '../images/minilogo.jpg';
 import IntroLogofive from '../images/Android Studio - Social.png';
 
 function Intro() {
