@@ -28,14 +28,12 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    position: absolute;
-    left: 0px;
-    top: 180%;
-    z-index: 1;
+  
+ 
 }
 .skills-second-div{
     height: 800px;
-    width: 98%;
+    width: 100%;
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     background-color: #000000;
@@ -67,4 +65,8 @@
 }
 .skills-second-content{
     margin: 15%;
+}
+.Skills-name{
+    font-size: 32px;
+    color: #FFF;
 }

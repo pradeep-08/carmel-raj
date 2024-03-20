@@ -15,11 +15,12 @@ function Skills() {
                 </div>
                
             </div>
+           
           </div>
           <div className="skills-second-main-div">
           
           <div className="skills-second-div">
-          <div>Skills</div>
+          <div className='Skills-name'>Skills</div>
             <div className="skills-second-child-1">
               <div className="skills-second-content">Android</div>
               <div className="skills-second-content">Android Studio</div>
