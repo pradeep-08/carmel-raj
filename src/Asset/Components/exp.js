@@ -5,9 +5,14 @@ import '../styles/exp.css';
 function Exp() {
   return (
     <>
+      <div className='exp-name'>Experience</div>
       <div className="exp-main-div">
-        <div className='exp-name'>Experience</div>  
-      
+          
+        <div className="experience-section">
+          <div>Program Analyst</div>
+          <div>Mar 2020 - Till date</div>
+          <div> KritiLabs Technologies</div>
+        </div>
       </div>
     </>
   )
