@@ -26,6 +26,19 @@
 }
 .experience-section-1 , .experience-section-2{
     display: flex;
-        
-    width: max-content;
+    width: fit-content;
+}
+
+.exp-role{
+  font-size: 32px;
+}
+
+.time-line-exp{
+    font-size: 15px;
+    margin: 10px;
+    color: #000000;
+}
+.exp-company{
+    color: #3300FF;
+    font-size: 32px;
 }
