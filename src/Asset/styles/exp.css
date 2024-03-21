@@ -1,6 +1,8 @@
 .exp-main-div{
     height: 800px;
     background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
     
 }
 
@@ -13,24 +15,14 @@
     border-bottom: 2px solid red;
 }
 .experience-info{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 16px;
+    font-size: 20px;
 }
 
-.experience-section{
-    display: flex;
-    flex: 1fr;
-    justify-content: 1fr;    
-}
-.experience-section-1 , .experience-section-2{
-    display: flex;
-    width: fit-content;
-}
+
 
 .exp-role{
   font-size: 32px;
+  flex: 1;
   font-weight: bold;
 }
 
