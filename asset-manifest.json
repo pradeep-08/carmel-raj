@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carmel-raj/static/css/main.901826d8.css",
-    "main.js": "/carmel-raj/static/js/main.16fc2be1.js",
+    "main.js": "/carmel-raj/static/js/main.da38212b.js",
     "static/media/introtarsh.gif": "/carmel-raj/static/media/introtarsh.e6a7f2cbe401793449e8.gif",
     "static/media/developer-icon.png": "/carmel-raj/static/media/developer-icon.bf9155b9cb2562915ec0.png",
     "static/media/skillsimg.gif": "/carmel-raj/static/media/skillsimg.e26166d7339c0f548433.gif",
@@ -9,10 +9,10 @@
     "static/media/Android Studio - Social.png": "/carmel-raj/static/media/Android Studio - Social.9f2fa2bb22d9ef1775b0.png",
     "index.html": "/carmel-raj/index.html",
     "main.901826d8.css.map": "/carmel-raj/static/css/main.901826d8.css.map",
-    "main.16fc2be1.js.map": "/carmel-raj/static/js/main.16fc2be1.js.map"
+    "main.da38212b.js.map": "/carmel-raj/static/js/main.da38212b.js.map"
   },
   "entrypoints": [
     "static/css/main.901826d8.css",
-    "static/js/main.16fc2be1.js"
+    "static/js/main.da38212b.js"
   ]
 }
