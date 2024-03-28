@@ -12,7 +12,7 @@ function Exp() {
          <div className="experience-section-1" >
          <div>
          <div className='exp-role'>Program Analyst<span className='time-line-exp'>Mar 2020 - Till date</span></div>
-          <div className='exp-company'> KritiLabs Technologies .<span className='time-line-exp'>Chennai, Tamil Nadu.</span></div>
+          <div className='exp-company'> KritiLabs Technologies <span className='time-line-exp'>Chennai, Tamil Nadu.</span></div>
          </div>
         
           <div className='experience-info'>IOT Technology solutions and managed IOT services for Multiple industries through it's 
