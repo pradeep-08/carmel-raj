@@ -16,7 +16,7 @@ function Exp() {
          </div>
         
           <div className='experience-info'>IOT Technology solutions and managed IOT services for Multiple industries through it's 
-              patented ALS IOT Platform<br></br>Worked with team of 3 members and provided end-to-end solutions for clients<br></br> Lead developer for 3 major mobile applications</div>
+              patented ALS IOT Platform<br></br>Worked With team of 3 members and provided end-to-end solutions for clients<br></br> Lead developer for 3 major mobile applications</div>
         </div>  
         <div className='experience-section-2'>
         <div><div className='exp-role'>Software Trainee<span className='time-line-exp'> May 2019 - Feb 2020</span></div>
