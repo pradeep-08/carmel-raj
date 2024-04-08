@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import '../styles/intro.css';
 import IntroLogo from '../images/developer-icon.png';
 import IntroLogoTwo from '../images/introtarsh.gif';
