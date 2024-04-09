@@ -29,6 +29,7 @@ Monitoring the performance of live apps and working on optimizing them at the co
               <div className="skills-second-content">Fragments</div>
               <div className="skills-second-content">MVVM</div>
               <div className="skills-second-content">Retrofit</div>
+              <div className="skills-second-content">Agile methodologies</div>
             </div>
           
              <img src={SkillsLogoOne} className='skillsimage' alt="Skillsimage"/>
@@ -39,6 +40,7 @@ Monitoring the performance of live apps and working on optimizing them at the co
               <div className="skills-second-content">Java</div>
               <div className="skills-second-content">SQL</div>
               <div className="skills-second-content">JSON</div>
+              <div className="skills-second-content">Debugging</div>
             </div>
           </div>
           </div>
