@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/carmel-raj/static/css/main.6da3a1f1.css",
-    "main.js": "/carmel-raj/static/js/main.8494a67d.js",
+    "main.css": "/carmel-raj/static/css/main.46dec77a.css",
+    "main.js": "/carmel-raj/static/js/main.c37cca0b.js",
     "static/media/introtarsh.gif": "/carmel-raj/static/media/introtarsh.e6a7f2cbe401793449e8.gif",
     "static/media/developer-icon.png": "/carmel-raj/static/media/developer-icon.bf9155b9cb2562915ec0.png",
     "static/media/skillsimg.gif": "/carmel-raj/static/media/skillsimg.e26166d7339c0f548433.gif",
@@ -9,11 +9,11 @@
     "static/media/Android Studio - Social.png": "/carmel-raj/static/media/Android Studio - Social.9f2fa2bb22d9ef1775b0.png",
     "static/media/exp.gif": "/carmel-raj/static/media/exp.2620c7ab7c529963b6d5.gif",
     "index.html": "/carmel-raj/index.html",
-    "main.6da3a1f1.css.map": "/carmel-raj/static/css/main.6da3a1f1.css.map",
-    "main.8494a67d.js.map": "/carmel-raj/static/js/main.8494a67d.js.map"
+    "main.46dec77a.css.map": "/carmel-raj/static/css/main.46dec77a.css.map",
+    "main.c37cca0b.js.map": "/carmel-raj/static/js/main.c37cca0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6da3a1f1.css",
-    "static/js/main.8494a67d.js"
+    "static/css/main.46dec77a.css",
+    "static/js/main.c37cca0b.js"
   ]
 }
