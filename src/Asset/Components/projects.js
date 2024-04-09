@@ -1,8 +1,14 @@
 import React from 'react'
+import '../styles/project.css';
+
 
 function Projects() {
   return <>
-    <div>project</div>
+    <div className='project-main-div'>
+    <div className='Skills-name'>Projects</div>
+    
+    
+    </div>
   </>
 }
 

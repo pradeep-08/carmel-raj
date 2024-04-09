@@ -9,8 +9,9 @@ function Skills() {
                        <h1 className='typewriter'> Hi, I’m Carmel. Nice to meet you.</h1>
                 </div>
                   <div className='skills-decription'>
-                  <div className="intro-des-2">Extensive 4 years of experience in Android Application Development Developing android applications to enhance and fulfill the user requirements with 
-                    clean and efficient codeMonitoring the performance of live apps and working on optimizing them at the code level.Identifying and resolving bottlenecks, rectifying bugs, and enhancing application performance.
+                  <div className="intro-des-2">Extensive 4 years of experience in Android Application Development Developing Android applications to enhance and fulfill user requirements with clean and efficient code.
+Monitoring the performance of live apps and working on optimizing them at the code level. Identifying and resolving bottlenecks, rectifying bugs, and enhancing application performance. Having knowledge of JAVA Spring boot with SQL database projects at the intermediate level.
+
                   </div>
                 </div>
                
