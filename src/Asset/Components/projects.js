@@ -25,7 +25,7 @@ and developing the complete working application.</div>
       <div className='project-info'>Application to generate the OTP to lock or unlock the ELock in the
                           vehicle. OTP will be sent to the RO customer based on the vehicle location, invoice number, ETA of vehicle etc.
 </div>
-<div className="role"> Application Developer - Requirement gathering, analyzing,
+<div className="role">Application Developer - Requirement gathering, analyzing,
 and developing the complete working application.</div>
     </div>
 
